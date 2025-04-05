@@ -43,6 +43,24 @@ file name:= Breast_cancer_NN.ipynb
 uses reinforcement learning techniques and concepts to achieve the game
 uses matplotlib for GUI
 
+
+---
+MNIST Noise Injection (for Denoising Autoencoders)
+Filename:= encoderb.ipynb
+Dataset: MNIST
+
+Objective: Simulate noisy digit images to prepare data for training a denoising autoencoder.
+
+Highlights:
+
+Adds Gaussian noise to selected MNIST images
+
+Visualizes original vs noisy images
+
+Useful for training models that learn to recover clean images from corrupted ones
+
+
+
 ## 🚀 Future Additions
 
 This repo will grow to include models like:
